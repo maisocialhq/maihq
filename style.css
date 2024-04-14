@@ -46,15 +46,16 @@ footer {
 button {
     font-size: 30px;
     border: 3px solid rgba(255, 255, 255, 0.75);
-    background: #5ac9a1;
+    /*    background: #5ac9a1; */
+    background: linear-gradient(#a6e5cc, #3eb489);
     height: 100px;
     margin: 25px auto;
     border-radius: 45px;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 button:hover {
-    background-color: #94ffd4;
+    background: linear-gradient(#3eb489, #a6e5cc);
     color: darkslategray;
     font-weight: bold;
 }
