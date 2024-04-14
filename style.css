@@ -6,6 +6,8 @@
     color: white;
     font-family: 'Lucida Console', 'Courier New', Courier, monospace, sans-serif;
     font-weight: lighter;
+    width: auto;
+    height: auto;
 }
 
 html {
