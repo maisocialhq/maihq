@@ -24,7 +24,6 @@ hr {
 h1 {
     font-size: 60px;
     line-height: 90px;
-    font-size: 200;
 }
 
 h2 {
@@ -39,7 +38,6 @@ h3 {
 
 footer {
     color: darkslategray;
-    align-content: end;
     padding: 50px;
 }
 
