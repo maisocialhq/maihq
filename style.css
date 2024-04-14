@@ -6,8 +6,6 @@
     color: white;
     font-family: 'Lucida Console', 'Courier New', Courier, monospace, sans-serif;
     font-weight: lighter;
-    width: 600px;
-    height: auto;
 }
 
 html {
@@ -26,16 +24,19 @@ hr {
 h1 {
     font-size: 60px;
     line-height: 90px;
+    width: 600px;
 }
 
 h2 {
     font-size: 30px;
     line-height: 60px;
+    width: 600px;
 }
 
 h3 {
     font-size: 20px;
     line-height: 60px;
+    width: 600px;
 }
 
 footer {
