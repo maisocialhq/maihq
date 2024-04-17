@@ -55,4 +55,5 @@ button:hover {
     background: linear-gradient(#3eb489, #a6e5cc);
     color: darkslategray;
     font-weight: bold;
+    cursor: pointer;
 }
