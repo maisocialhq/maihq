@@ -1,0 +1,89 @@
+body {
+    margin: 0px 10%;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+.section {
+    border: 2px solid darkgray;
+    margin: 10px auto;
+}
+
+.section h2,
+h3,
+h4 {
+    margin-left: 10px;
+}
+
+.section h3 {
+    text-decoration: underline;
+}
+
+.section h4 {
+    line-height: 0%;
+}
+
+
+/* Colors Section */
+.color-box {
+    display: inline-block;
+    margin: 8px 10px;
+    padding: 0px 10%;
+    width: 10%;
+    text-align: center;
+}
+
+.color-box p {
+    line-height: 1;
+}
+
+#indigo {
+    background-color: #4B0076;
+    color: white;
+}
+
+#eggplant {
+    background-color: #311465;
+    color: white;
+}
+
+#violet {
+    background-color: #D34DD2;
+    color: white;
+}
+
+#lavender {
+    background-color: #bf94e4;
+}
+
+#floral {
+    background-color: #b47ee5;
+}
+
+#iris {
+    background-color: #9866C7;
+}
+
+#lilac {
+    background-color: #C8A2C8;
+}
+
+
+/* Fonts */
+#thin-font {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+}
+
+#normal-font {
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+}
+
+#semidbold-font {
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+/* Text Style */
